@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PhoneBook>
+  <Person Name="2 2 2">
+    <Address>
+      <Street>2</Street>
+      <Home>2</Home>
+      <Appartament>2</Appartament>
+    </Address>
+    <Phones>
+      <MobilePhone>21</MobilePhone>
+      <MobilePhone>33</MobilePhone>
+      <HomePhone>0</HomePhone>
+    </Phones>
+  </Person>
+  <Person Name="3 3 3">
+    <Address>
+      <Street>2</Street>
+      <Home>2</Home>
+      <Appartament>2</Appartament>
+    </Address>
+    <Phones>
+      <MobilePhone>41</MobilePhone>
+      <MobilePhone>14</MobilePhone>
+      <MobilePhone>55</MobilePhone>
+      <HomePhone>0</HomePhone>
+    </Phones>
+  </Person>
+</PhoneBook>

@@ -1,0 +1,14 @@
+/Users/bzick4/Desktop/visual/8.4_Phonebook/8.4_Phonebook/obj/Debug/net7.0/8.4_Phonebook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bzick4/Desktop/visual/8.4_Phonebook/8.4_Phonebook/obj/Debug/net7.0/8.4_Phonebook.AssemblyInfoInputs.cache
+/Users/bzick4/Desktop/visual/8.4_Phonebook/8.4_Phonebook/obj/Debug/net7.0/8.4_Phonebook.AssemblyInfo.cs
+/Users/bzick4/Desktop/visual/8.4_Phonebook/8.4_Phonebook/obj/Debug/net7.0/8.4_Phonebook.csproj.CoreCompileInputs.cache
+/Users/bzick4/Desktop/visual/8.4_Phonebook/8.4_Phonebook/bin/Debug/net7.0/8.4_Phonebook
+/Users/bzick4/Desktop/visual/8.4_Phonebook/8.4_Phonebook/bin/Debug/net7.0/8.4_Phonebook.deps.json
+/Users/bzick4/Desktop/visual/8.4_Phonebook/8.4_Phonebook/bin/Debug/net7.0/8.4_Phonebook.runtimeconfig.json
+/Users/bzick4/Desktop/visual/8.4_Phonebook/8.4_Phonebook/bin/Debug/net7.0/8.4_Phonebook.dll
+/Users/bzick4/Desktop/visual/8.4_Phonebook/8.4_Phonebook/bin/Debug/net7.0/8.4_Phonebook.pdb
+/Users/bzick4/Desktop/visual/8.4_Phonebook/8.4_Phonebook/obj/Debug/net7.0/8.4_Phonebook.dll
+/Users/bzick4/Desktop/visual/8.4_Phonebook/8.4_Phonebook/obj/Debug/net7.0/refint/8.4_Phonebook.dll
+/Users/bzick4/Desktop/visual/8.4_Phonebook/8.4_Phonebook/obj/Debug/net7.0/8.4_Phonebook.pdb
+/Users/bzick4/Desktop/visual/8.4_Phonebook/8.4_Phonebook/obj/Debug/net7.0/8.4_Phonebook.genruntimeconfig.cache
+/Users/bzick4/Desktop/visual/8.4_Phonebook/8.4_Phonebook/obj/Debug/net7.0/ref/8.4_Phonebook.dll
